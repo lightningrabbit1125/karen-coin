@@ -77,7 +77,7 @@ const About = () => {
         <div className="mt-10 font-mono text-lg sm:text-2xl text-[#33271e] dark:text-gray-100 tracking-widest text-center">
           
           <h3>
-                Karen found out about memecoins.. and she\'s DEMANDING liquidity.<br/>
+                Karen found out about memecoins.. and she is DEMANDING liquidity.<br/>
                 <br/>
                 @KAREN drops July 19 on Solana<br/>
                 💵  $500 in $KRN to 10 winners!<br/>
