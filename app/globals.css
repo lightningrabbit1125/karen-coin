@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Stopbuck";
+  src: url("/fonts/Stopbuck.ttf");
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+.dark {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+}
+
+html {
+  scroll-behavior: smooth;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  transition: background 0.3s, color 0.3s;
+}
+
+.text-shadow {
+  text-shadow: 4px 0 #201a17, -4px 0 #201a17, 0 4px #201a17, 0 -4px #201a17,
+    4px 4px #201a17, -4px -4px #201a17, -4px 4px #201a17, 4px -4px #201a17;
+}
+
+.text-shadow-duis {
+  text-shadow: 4px 0 #eac837, -4px 0 #eac837, 0 4px #eac837, 0 -4px #eac837,
+    4px 4px #eac837, -4px -4px #eac837, -4px 4px #eac837, 4px -4px #eac837;
+}
+
+.text-shadow-duis-not-hover:not(:hover) {
+  text-shadow: 4px 0 #eac837, -4px 0 #eac837, 0 4px #eac837, 0 -4px #eac837,
+    4px 4px #eac837, -4px -4px #eac837, -4px 4px #eac837, 4px -4px #eac837;
+}
+
+.cloud {
+  height: 180px; /* control the size */
+  aspect-ratio: 1.8;
+  --g: radial-gradient(50% 50%, #000 98%, #0000) no-repeat;
+  --s: radial-gradient(70% 70%, #000 98%, #0000) no-repeat;
+  mask: var(--g) 100% 100%/30% 60%, var(--g) 70% 0/50% 100%,
+    var(--g) 0 100%/36% 68%, var(--g) 27% 18%/26% 40%,
+    linear-gradient(#000 0 0) bottom/67% 58% no-repeat;
+  background: #e4e0e1;
+}
+.dark .cloud {
+  background: #23232b;
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-200px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.slide-in-left {
+  animation: slideInLeft 0.8s ease-out;
+}

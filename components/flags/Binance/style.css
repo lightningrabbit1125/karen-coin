@@ -1,0 +1,517 @@
+.binance {
+  .column:nth-child(1) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(2) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(3) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(4) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(5) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(6) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(7) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(236, 183, 12, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(8) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(238, 184, 11, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(124, 103, 36, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(9) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(237, 183, 12, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(236, 182, 12, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(10) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(124, 103, 36, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(238, 184, 11, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(236, 182, 12, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(11) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(124, 103, 36, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(238, 183, 12, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(239, 184, 11, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(236, 182, 12, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(12) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(236, 183, 12, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(239, 184, 11, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(238, 183, 12, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(118, 98, 37, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(111, 93, 38, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(13) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(237, 183, 12, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(239, 184, 11, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(111, 93, 38, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(14) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(236, 182, 12, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(117, 98, 37, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(237, 183, 12, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(110, 93, 38, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(15) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(240, 185, 11, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(239, 185, 11, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(16) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(236, 182, 12, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(111, 93, 38, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(17) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(18) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255) /* make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255),
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(19) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+  .column:nth-child(20) {
+    box-shadow: 5px 0px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 5px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 10px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 15px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 20px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 25px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 30px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 35px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 40px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 45px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 50px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 55px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 60px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 65px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 70px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 75px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */,
+      5px 80px 0 0 rgba(51, 51, 51, 255)
+        /* sample text to make a line breaking */;
+    height: 5px;
+  }
+}
